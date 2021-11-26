@@ -16,12 +16,19 @@ End the program
 ## Program:
 #Program to find the solution for the given linear equations.
 #Developed by: v.charan sai
+
 #RegisterNumber: 21003158
+
 import numpy as np
+
 A=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
+
 B=np.array([-9,4,-1])
+
 sol=np.linalg.solve(A,B)
+
 print(sol)
+
 
 ## Output: 
 ![output](https://github.com/charansai0/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/blob/main/Screenshot%20(95).png?raw=-true)
