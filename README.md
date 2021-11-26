@@ -30,6 +30,7 @@ sol=np.linalg.solve(A,B)
 print(sol)
 
 
+
 ## Output: 
 ![output](https://github.com/charansai0/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/blob/main/Screenshot%20(95).png?raw=-true)
 ## Result: 
